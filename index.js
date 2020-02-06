@@ -1,1 +1,3 @@
-console.log('im working. im Js. Im beautiful. Im worth it');
+a = 221
+b = a - 5
+console.log(b)
